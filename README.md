@@ -1,7 +1,7 @@
-print（bye）
+print（hello）
 
 
-5
+10
 
 
 
