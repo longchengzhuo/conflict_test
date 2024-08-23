@@ -6,5 +6,13 @@ def b():
 
 
 
-def c():
+
+
+
+
+
+
+
+
+def d():
     pass
