@@ -1,18 +1,7 @@
-def a():
-    pass
+print（bye）
 
-def b
-    
-2
 
-1
-10
-aa
-b
-c
-d
+5
 
 
 
-def d():
-    pass
