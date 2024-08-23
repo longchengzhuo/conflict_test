@@ -1,7 +1,8 @@
 print（bye）
 
 
-5
+20
 
 
 
+print(result)
