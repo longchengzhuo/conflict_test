@@ -1,7 +1,7 @@
 def a():
     pass
 
-def b():
+def b
     
 2
 
