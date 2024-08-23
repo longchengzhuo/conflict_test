@@ -2,7 +2,7 @@ def a():
     pass
 
 def b():
-    pass
+    
 2
 
 1
